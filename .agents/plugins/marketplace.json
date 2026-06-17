@@ -9,7 +9,6 @@
 			"source": {
 				"source": "git-subdir",
 				"url": "https://github.com/Kroxitrock/message-of-the-day",
-				"path": "./skills/message-of-the-day",
 				"ref": "main"
 			},
 			"policy": {
