@@ -1,0 +1,22 @@
+{
+	"name": "remote",
+	"interface": {
+		"displayName": "Remote"
+	},
+	"plugins": [
+		{
+			"name": "message-of-the-day",
+			"source": {
+				"source": "git-subdir",
+				"url": "https://git.lab.smartsheet.com/andrey.strinski/codex-test-repo.git",
+				"path": "./skills/message-of-the-day",
+				"ref": "mainline"
+			},
+			"policy": {
+				"installation": "AVAILABLE",
+				"authentication": "ON_INSTALL"
+			},
+			"category": "Productivity"
+		}
+	]
+}
