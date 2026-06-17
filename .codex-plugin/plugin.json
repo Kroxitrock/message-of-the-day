@@ -1,0 +1,25 @@
+{
+  "name": "message-of-the-day",
+  "version": "0.1.0",
+  "description": "A local Codex plugin that provides a concise message of the day.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Message of the Day",
+    "shortDescription": "Get a concise daily note in Codex.",
+    "longDescription": "Message of the Day adds a small local Codex skill that responds with a fresh daily message, including a theme and practical nudge.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [
+      "Guidance"
+    ],
+    "defaultPrompt": [
+      "Give me the message of the day.",
+      "What should I keep in mind today?",
+      "Start my day with a short note."
+    ],
+    "brandColor": "#2563EB"
+  }
+}
