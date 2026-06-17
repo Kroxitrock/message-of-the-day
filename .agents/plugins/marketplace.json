@@ -8,8 +8,9 @@
 			"name": "message-of-the-day",
 			"source": {
 				"source": "git-subdir",
+				"url": "https://github.com/Kroxitrock/message-of-the-day",
 				"path": "./skills/message-of-the-day",
-				"ref": "mainline"
+				"ref": "main"
 			},
 			"policy": {
 				"installation": "AVAILABLE",
