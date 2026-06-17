@@ -8,7 +8,7 @@
 			"name": "message-of-the-day",
 			"source": {
 				"source": "git-subdir",
-				"url": "https://git.lab.smartsheet.com/andrey.strinski/codex-test-repo.git",
+				"url": "https://github.com/Kroxitrock/message-of-the-day.git",
 				"path": "./skills/message-of-the-day",
 				"ref": "mainline"
 			},
