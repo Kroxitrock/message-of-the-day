@@ -7,8 +7,8 @@
 		{
 			"name": "message-of-the-day",
 			"source": {
-				"source": "git-subdir",
-				"url": "https://github.com/Kroxitrock/message-of-the-day",
+				"source": "url",
+				"url": "https://github.com/Kroxitrock/message-of-the-day.git",
 				"ref": "main"
 			},
 			"policy": {
